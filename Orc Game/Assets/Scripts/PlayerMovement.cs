@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour {
 
     public Rigidbody2D rb;
+	public Animator animator;
 	public float speed;
 	public float jumpforce;
 
@@ -24,6 +25,7 @@ public class PlayerMovement : MonoBehaviour {
 	void Start ()
 	{
 		rb = GetComponent<Rigidbody2D>();
+		animator = GetComponent<Animator>();
 		horizontal = Input.GetAxis("Horizontal");
 		Debug.Log("Hello");
 
@@ -67,15 +69,15 @@ public class PlayerMovement : MonoBehaviour {
 		}
 		// input exists
 		rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);	
+		animator.SetFloat("Speed", Mathf.Abs(horizontal * speed));
+		
 		
 	}
 
 	void Flip()
 	{
 		FaceRight = !FaceRight;
-		Vector3 scalar = transform.localScale;
-		scalar.x *= -1;
-		transform.localScale = scalar;
+		transform.Rotate(0f, 180f, 0f);
 	}
 	
 }

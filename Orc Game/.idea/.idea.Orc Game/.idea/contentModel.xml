@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\OmarH\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\OmarH\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Orc Game.-798316901.00" t="ExcludeRecursive" />
-    <e p="C:\Users\OmarH\Documents\Projects\Orc_Platformer\Orc Game" t="IncludeRecursive">
+    <e p="C:\Users\OmarH\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Orc Game.74561889.00" t="ExcludeRecursive" />
+    <e p="D:\Program Files\Unity\Orc_Platformer\Orc Game" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="BetterJump.cs" t="Include" />
+          <e p="GunShot.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
+          <e p="Shoot.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
