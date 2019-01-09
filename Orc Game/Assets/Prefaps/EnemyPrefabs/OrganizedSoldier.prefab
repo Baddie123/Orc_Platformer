@@ -237,9 +237,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 6
-  jumpForce: 10
-  lowJumpMult: 2.5
-  highJumpMult: 2
+  jumpForce: 14
+  lowJumpMult: 3.5
+  highJumpMult: 2.5
   groundCheck: {fileID: 4460299331201620}
   WhatIsGround:
     serializedVersion: 2
@@ -271,6 +271,7 @@ MonoBehaviour:
   HP: 100
   healthBar: {fileID: 0}
   ratio: 0
+  newPoints: 10
 --- !u!212 &212108895793983720
 SpriteRenderer:
   m_ObjectHideFlags: 1

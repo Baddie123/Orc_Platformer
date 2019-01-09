@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="630e2b09-9cb7-415c-a960-c2a398bd88bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Orc Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Orc Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Orc Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Orc Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Soldier.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Soldier.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Palettes/Ground.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Palettes/Ground.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefaps/BulletBasic.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefaps/BulletBasic.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefaps/Grid.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefaps/Grid.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefaps/Orc.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefaps/Orc.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefaps/Player Camera.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefaps/Player Camera.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefaps/Soldier.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefaps/Soldier.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/movement_test.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/movement_test.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BetterJump.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BetterJump.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GunShot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GunShot.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shoot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shoot.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/BulletBasic.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/BulletBasic.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +108,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/NewScripts/Health.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -148,7 +125,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/NewScripts/Player_Movement.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -340,7 +317,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="319" />
     <option name="y" value="20" />
     <option name="width" value="1485" />
@@ -432,12 +409,12 @@
       <workItem from="1545515244213" duration="6294000" />
       <workItem from="1545692927852" duration="3494000" />
       <workItem from="1545769996833" duration="32654000" />
-      <workItem from="1546465759292" duration="4693000" />
+      <workItem from="1546465759292" duration="5291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92051000" />
+    <option name="totallyTimeSpent" value="92649000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -691,21 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/NewScripts/Health.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <marker date="1546471405747" expanded="false" signature="6:100" ph="..." />
-            <marker date="1546471405747" expanded="true" signature="137:716" ph="{...}" />
-            <marker date="1546471405747" expanded="true" signature="316:452" ph="{...}" />
-            <marker date="1546471405747" expanded="true" signature="489:712" ph="{...}" />
-            <marker date="1546471405747" expanded="true" signature="558:632" ph="{...}" />
-            <marker date="1546471405747" expanded="true" signature="647:709" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/NewScripts/Player_Movement.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -728,6 +690,21 @@
             <marker date="1545872895641" expanded="true" signature="1939:1958" ph="{...}" />
             <marker date="1545872895641" expanded="true" signature="2002:2021" ph="{...}" />
             <marker date="1545872895641" expanded="true" signature="2162:2228" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/NewScripts/Health.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <marker date="1546471405747" expanded="false" signature="6:100" ph="..." />
+            <marker date="1546471405747" expanded="true" signature="137:716" ph="{...}" />
+            <marker date="1546471405747" expanded="true" signature="316:452" ph="{...}" />
+            <marker date="1546471405747" expanded="true" signature="489:712" ph="{...}" />
+            <marker date="1546471405747" expanded="true" signature="558:632" ph="{...}" />
+            <marker date="1546471405747" expanded="true" signature="647:709" ph="{...}" />
           </folding>
         </state>
       </provider>

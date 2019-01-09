@@ -233,7 +233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   groundCheck: {fileID: 4021757054814994}
-  speed: 2
+  speed: 3
   rayRange: 1
   damage: 10
   TimeBetweenHits: 1
